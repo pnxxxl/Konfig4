@@ -50,7 +50,7 @@ load 288
 read 705
 write 92
 bitreverse 946
-```
+``` 
 Затем выполните сборку:
 ```bash
 python assembler.py input.txt output.bin log.json
